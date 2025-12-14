@@ -11,14 +11,15 @@ TEMA 3 – BIBLIOTECA PESSOAL DIGITAL
 
 # Principais Classes do Projeto
  
-Classe: Livro
-Atributos: genero, nome, autor,num_paginas
-Métodos: cadastrar, editar, remover, adotar
+- Classe: Livro
+- Atributos: genero, nome, autor,num_paginas
+- Métodos: cadastrar, editar, remover, adotar
 
-Classe: Autores
-Atributos: livros,revista, nome, genero_livros, genero_revista
-Métodos: cadastrar, editar, remover, adotar
+- Classe: Autores
+- Atributos: livros,revista, nome, genero_livros, genero_revista
+- Métodos: cadastrar, editar, remover, adotar
 
-Classe: Revista
-Atributos: genero, nome, autor,num_paginas
-Métodos: cadastrar, editar, remover, adotar
+
+- Classe: Revista
+- Atributos: genero, nome, autor,num_paginas
+- Métodos: cadastrar, editar, remover, adotar
