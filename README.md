@@ -19,7 +19,7 @@ TEMA 3 – BIBLIOTECA PESSOAL DIGITAL
 - Métodos: cadastrar, editar, remover, adotar
 
 = Classe: Autores
-- Atributos: livros,revista, nome, gênero livros, gênero revista
+- Atributos: livros,revista, nome, gêneros comuns
 - Métodos: cadastrar, editar, remover, adotar
 
 = Classe: Revista
@@ -27,6 +27,6 @@ TEMA 3 – BIBLIOTECA PESSOAL DIGITAL
 - Métodos: cadastrar, editar, remover, adotar
 
 = Classe: Leitor
-- Atributos: nome, livros lidos, revista lidas
+- Atributos: nome, livros lidos, revista lidas, livros alugados, revistas alugados
 - Métodos: cadastrar, editar, remover, adotar
 
