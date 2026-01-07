@@ -5,7 +5,7 @@ TEMA 3 – BIBLIOTECA PESSOAL DIGITAL
 - Nome completo: Antônio Alexandre Pereira Alves / Matrícula: 2025013002 : Fica responsável pela classe Revista do projeto
 - Nome completo: Danilo Barros de Novaes / Matrícula: 2025013183: Fica responsável pela classe Livro do projeto
 - Nome completo: Filipi Emanuel Pinto Teixeira / Matrícula: 2025019258: Fica responsável pela classe Autores do projeto
-- Nome completo: Eduardo Magalhães / Matrícula: 2025013209 : Fica responsável pelo repositórios do projeto
+- Nome completo: Eduardo Magalhães / Matrícula: 2025013209 : Fica responsável pelo repositórios do projeto e classe Bibliotecario do projeto
 - Nome completo: Eyshila Serena Ferreira Mota / Matrícula: 2025013263: Fica responsável pela classe Leitor do projeto
 
 
